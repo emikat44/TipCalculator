@@ -245,11 +245,19 @@
       "url": "favicon.ico"
     },
     {
+      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "url": "icon-192.png"
+    },
+    {
+      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "url": "icon-512.png"
+    },
+    {
       "hash": "sha256-mpicjmyACYXnftzGGbra2jpy7q+VVpr7kQQlFAk0gJY=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-7LubsO\/RtLHpoa0gbEMgRuuYcjt1b\/vIu\/Obnu5uKSs=",
+      "hash": "sha256-pRS45oOrD\/KR\/eVDhX9ruQeG7aZ+ydnfIJ9hua7ESN0=",
       "url": "manifest.json"
     },
     {
@@ -269,5 +277,5 @@
       "url": "Waffle512.png"
     }
   ],
-  "version": "DVdzGPxo"
+  "version": "JlTasdLR"
 };
