@@ -249,7 +249,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-pRS45oOrD\/KR\/eVDhX9ruQeG7aZ+ydnfIJ9hua7ESN0=",
+      "hash": "sha256-7LubsO\/RtLHpoa0gbEMgRuuYcjt1b\/vIu\/Obnu5uKSs=",
       "url": "manifest.json"
     },
     {
@@ -269,5 +269,5 @@
       "url": "Waffle512.png"
     }
   ],
-  "version": "AOrM3Z7R"
+  "version": "DVdzGPxo"
 };
