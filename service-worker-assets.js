@@ -245,10 +245,6 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
-      "url": "icon-512.png"
-    },
-    {
       "hash": "sha256-mpicjmyACYXnftzGGbra2jpy7q+VVpr7kQQlFAk0gJY=",
       "url": "index.html"
     },
@@ -273,5 +269,5 @@
       "url": "Waffle512.png"
     }
   ],
-  "version": "IkrPPU1P"
+  "version": "AOrM3Z7R"
 };
