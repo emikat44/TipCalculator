@@ -193,7 +193,7 @@
       "url": "TipCalculator.styles.css"
     },
     {
-      "hash": "sha256-jyO0JcIKdPtiNAKqjQFYJM\/+tf738ngLfmrBIAacn\/Q=",
+      "hash": "sha256-Swmuw07Tt+dH3qwFKqQrenqRd0Gxz0TW9OdSETb4PLk=",
       "url": "css\/app.css"
     },
     {
@@ -277,5 +277,5 @@
       "url": "Waffle512.png"
     }
   ],
-  "version": "WpOTgVpP"
+  "version": "JlTasdLR"
 };
