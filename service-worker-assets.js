@@ -265,9 +265,13 @@
       "url": "Waffle192.png"
     },
     {
+      "hash": "sha256-arBbH86K77\/zW3ZL01LyyLPF+EFVeWsfHzBaNyT\/5F8=",
+      "url": "waffle2.jpg"
+    },
+    {
       "hash": "sha256-NO9YQ26mOQhVFMZPaRS3ARYz7pFZyqP3nuGDCZrQfeE=",
       "url": "Waffle512.png"
     }
   ],
-  "version": "IgrXE1zB"
+  "version": "gFrBhw4f"
 };
